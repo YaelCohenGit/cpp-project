@@ -1,2 +1,2 @@
 # cpp-project
-This line is the only diff of the newBranch
+This line is the only diff between main and newBranch
